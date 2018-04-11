@@ -1,0 +1,6 @@
+*.pyc
+*.txt
+!examples/frankenstein.txt
+examples/
+*.mp3
+.DS_Store
