@@ -1,3 +1,6 @@
 boto3
 openai
 python-dotenv
+typer
+rich
+pydub
