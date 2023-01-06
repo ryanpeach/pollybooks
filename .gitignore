@@ -1,6 +1,9 @@
 *.pyc
 *.txt
-!examples/frankenstein.txt
-examples/
 *.mp3
 .DS_Store
+.env
+.mypy_cache
+.pytest_cache
+.coverage
+__pycache__
