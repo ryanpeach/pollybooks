@@ -3,6 +3,8 @@ from pathlib import Path
 from typing import List
 import openai
 import os
+import textwrap
+
 
 try:
     from dotenv import load_dotenv
